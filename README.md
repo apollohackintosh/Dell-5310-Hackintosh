@@ -75,7 +75,8 @@ MacBookPro16,2
 
 - [ ] Fingerprint sensor
 - [ ] Smart card reader
-- [ ] USB-C Data transfer
+- [ ] USB-C Data transfer only works with phones and not USB sticks
+- [ ] USB drives not showing up in Ventura
 - [ ] Native HotKeys Support for Screen Brightness Fn + F11/F12
 
 ## Additional Notes
