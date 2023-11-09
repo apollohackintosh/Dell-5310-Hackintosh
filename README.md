@@ -65,7 +65,7 @@ MacBookPro16,2
 
  - [x] USB-C DP-alt Mode
  
- - [x] Thunderbolt (needs to plug a device before boot)
+ - [x] Thunderbolt
  
  - [x] Handoff, Airdrop & Sidecar
 
