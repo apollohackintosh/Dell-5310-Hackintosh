@@ -44,8 +44,6 @@ MacBookPro16,2
  - [x] Internal Microphone
  
  - [x] WiFi (2.4Ghz + 5Ghz)
- 
- - [x] Bluetooth
 
  - [x] Ethernet
 
@@ -73,6 +71,7 @@ MacBookPro16,2
  
 ## What's not working
 
+- [ ] Bluetooth partially working so WIP
 - [ ] Fingerprint sensor
 - [ ] Smart card reader
 - [ ] USB-C Data transfer only works with phones and not USB sticks
