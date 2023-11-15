@@ -1,5 +1,7 @@
 # Dell-5310-Hackintosh
 
+![laptop_latitude_13_5310](https://github.com/apollohackintosh/Dell-5310-Hackintosh/assets/9867529/8a5ec8b3-8e74-4382-9473-6c8fbc98e991)
+
 This is the first Dell Lattitude 5310 OpenCore EFI on version 0.9.6.
 
 The EFI is working fine and is built for MacOS Ventura.
@@ -45,6 +47,8 @@ MacBookPro16,2
  
  - [x] WiFi (2.4Ghz + 5Ghz)
 
+ - [x] Bluetooth working but drops from time to time
+
  - [x] Ethernet
 
  - [x] HDMI + audio over HDMI
@@ -62,6 +66,10 @@ MacBookPro16,2
  - [x] USB-C charging
 
  - [x] USB-C DP-alt Mode
+
+ - [x] USB-C, 3.0, 2.0 Data transfer
+ 
+ - [x] USB drives not showing up in Ventura
  
  - [x] Thunderbolt
  
@@ -71,11 +79,9 @@ MacBookPro16,2
  
 ## What's not working
 
-- [ ] Bluetooth partially working so WIP
+
 - [ ] Fingerprint sensor
 - [ ] Smart card reader
-- [ ] USB-C Data transfer only works with phones and not USB sticks
-- [ ] USB drives not showing up in Ventura
 - [ ] Native HotKeys Support for Screen Brightness Fn + F11/F12
 
 ## Additional Notes
