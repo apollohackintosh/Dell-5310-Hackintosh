@@ -74,8 +74,6 @@ MacBookPro16,2
 
  - [x] USB-C, 3.0, 2.0 Data transfer
  
- - [x] USB drives not showing up in Ventura
- 
  - [x] Thunderbolt
  
  - [x] Handoff, Airdrop & Sidecar
