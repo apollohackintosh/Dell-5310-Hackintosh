@@ -83,9 +83,9 @@ MacBookPro16,2
 ## What's not working
 
 
-- [ ] Fingerprint sensor
-- [ ] Smart card reader
-- [ ] Native HotKeys Support for Screen Brightness Fn + F11/F12
+- [ ] Fingerprint sensor - Touch ID cannot be simulated
+- [ ] Smart card reader - No drivers for this
+- [ ] Native HotKeys Support for Screen Brightness Fn + F11/F12 - WIP
 
 ## Additional Notes
 
