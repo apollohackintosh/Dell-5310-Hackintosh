@@ -1,4 +1,4 @@
-# Dell-5310-Hackintosh
+# Dell Latitude 5310 Hackintosh
 
 ![laptop_latitude_13_5310](https://github.com/apollohackintosh/Dell-5310-Hackintosh/assets/9867529/8a5ec8b3-8e74-4382-9473-6c8fbc98e991)
 
@@ -89,6 +89,7 @@ MacBookPro16,2
 
 ## Additional Notes
 
-Don't forget to generate your own SMBIOS with https://github.com/corpnewt/GenSMBIOS. 
+- How to hackintosh: https://dortania.github.io/OpenCore-Install-Guide/
+- Don't forget to generate your own SMBIOS with https://github.com/corpnewt/GenSMBIOS. 
 
 - ENJOY!
