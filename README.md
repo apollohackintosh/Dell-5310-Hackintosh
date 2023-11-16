@@ -11,7 +11,9 @@ This is a work in progress and fixes/updates will be released when I get a chanc
 ## Tested macOS Version
 
 - macOS Ventura 13.6.1
-- macOS Sonoma 14.1 (Lag when entering the login screen)
+- macOS Sonoma 14.1
+
+- For Lags in boot up disable FileVault
 
 ### Bootloader
 
@@ -79,12 +81,12 @@ MacBookPro16,2
  - [x] Handoff, Airdrop & Sidecar
 
  - [x] FileVault 2
+
+ - [x] Smart card reader - Works with virtualisation software
  
 ## What's not working
 
-
 - [ ] Fingerprint sensor - Touch ID cannot be simulated
-- [ ] Smart card reader - No drivers for this
 - [ ] Native HotKeys Support for Screen Brightness Fn + F11/F12 - WIP
 
 ## Additional Notes
