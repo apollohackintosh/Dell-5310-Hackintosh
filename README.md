@@ -15,11 +15,11 @@ This is a work in progress and fixes/updates will be released when I get a chanc
 
 - For Lags in boot up disable FileVault
 
-### Bootloader
+## Bootloader
 
 OpenCore 0.9.6
 
-### SMBIOS
+## SMBIOS
 
 MacBookPro16,2
 
