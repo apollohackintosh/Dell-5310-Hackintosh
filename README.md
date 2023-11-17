@@ -23,7 +23,6 @@ OpenCore 0.9.6
 
 MacBookPro16,2
 
-
 ## BIOS Settings
 
 - Boot mode: UEFI
@@ -32,9 +31,7 @@ MacBookPro16,2
 - SATA Mode: AHCI 
 - Intel SGX: Software Controlled
 
-
 ## What's working
-
  
  - [x] CPU Speedstep
 
