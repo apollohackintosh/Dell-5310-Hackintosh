@@ -45,8 +45,7 @@ MacBookPro16,2
  
  - [x] Internal Microphone
  
- - [x] WiFi (2.4Ghz + 5Ghz) - For Sonoma please use the updated KEXT
-       https://github.com/OpenIntelWireless/itlwm/releases 2.3.0-alpha works
+ - [x] WiFi (2.4Ghz + 5Ghz) - For Sonoma please use the updated KEXT https://github.com/OpenIntelWireless/itlwm/releases 2.3.0-alpha works
 
  - [x] Bluetooth working but drops from time to time
 
@@ -60,8 +59,7 @@ MacBookPro16,2
 
  - [x] USB 3.0
 
- - [x] MicroSD card reader - For Sonoma only use the following KEXT
-       https://github.com/0xFireWolf/RealtekCardReader else it will stop working
+ - [x] MicroSD card reader - For Sonoma only use the following KEXT https://github.com/0xFireWolf/RealtekCardReader else it will stop working
 
  - [x] Native hotkeys support with Fn keys (Volume Fn+F1/F2/F3)
  
