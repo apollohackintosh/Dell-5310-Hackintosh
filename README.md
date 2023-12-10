@@ -78,11 +78,12 @@ MacBookPro16,2
  - [x] FileVault 2
 
  - [x] Smart card reader - Works with virtualisation software
+
+ - [x] Native HotKeys Support for Screen Brightness Fn + F6/F7 working with MonitorControl https://github.com/MonitorControl/MonitorControl/releases
  
 ## What's not working
 
-- [ ] Fingerprint sensor - Touch ID cannot be simulated
-- [ ] Native HotKeys Support for Screen Brightness Fn + F11/F12 - WIP
+- [ ] Fingerprint sensor - Touch ID cannot be simulated but I am trying to find an alternative
 
 ## Additional Notes
 
