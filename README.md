@@ -47,7 +47,7 @@ MacBookPro16,2
  
  - [x] WiFi (2.4Ghz + 5Ghz) - For Sonoma please use the updated KEXT https://github.com/OpenIntelWireless/itlwm/releases 2.3.0-alpha works
 
- - [x] Bluetooth working but drops from time to time
+ - [x] Bluetooth
 
  - [x] Ethernet
 
