@@ -11,7 +11,7 @@ This is a work in progress and fixes/updates will be released when I get a chanc
 ## Tested macOS Version
 
 - macOS Ventura 13.6.1
-- macOS Sonoma 14.1
+- macOS Sonoma 14.2
 
 - For Lags in boot up disable FileVault
 
