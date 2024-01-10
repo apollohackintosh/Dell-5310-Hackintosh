@@ -17,7 +17,7 @@ This is a work in progress and fixes/updates will be released when I get a chanc
 
 ## Bootloader
 
-OpenCore 0.9.6
+OpenCore 0.9.7
 
 ## SMBIOS
 
