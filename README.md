@@ -2,7 +2,7 @@
 
 ![laptop_latitude_13_5310](https://github.com/apollohackintosh/Dell-5310-Hackintosh/assets/9867529/8a5ec8b3-8e74-4382-9473-6c8fbc98e991)
 
-This is the first Dell Lattitude 5310 OpenCore EFI on version 0.9.6.
+This is the first Dell Lattitude 5310 OpenCore EFI on version 1.0.0.
 
 The EFI is working fine and is built for MacOS Ventura.
 
@@ -11,13 +11,13 @@ This is a work in progress and fixes/updates will be released when I get a chanc
 ## Tested macOS Version
 
 - macOS Ventura 13.6.1
-- macOS Sonoma 14.2
+- macOS Sonoma 14.5
 
 - For Lags in boot up disable FileVault
 
 ## Bootloader
 
-OpenCore 0.9.7
+OpenCore 1.0.0
 
 ## SMBIOS
 
