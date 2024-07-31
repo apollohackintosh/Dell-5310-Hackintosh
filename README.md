@@ -79,7 +79,8 @@ MacBookPro16,2
 
  - [x] Native HotKeys Support for Screen Brightness Fn + F6/F7 working with MonitorControl https://github.com/MonitorControl/MonitorControl/releases
  
-## What's not working
+ - [x] Iservices with WiFi, find my with localization AirportItlwm by creating fake ethernet connection nullEthernet (https://bitbucket.org/anonymous_writer/os-x-null-ethernet/src/master/) here is the tutorial (https://github.com/OpenIntelWireless/itlwm/issues/942#issuecomment-2169892581) - you have to restart wifi so i created this script, you need to add autostart script in macos automator https://github.com/marczukmichal/Dell-5310-Hackintosh/blob/main/wifi-restart.md
+## What's not working 
 
 - [ ] Fingerprint sensor - Touch ID cannot be simulated but I am trying to find an alternative
 
